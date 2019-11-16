@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256082231393",
+    "firebase_url": "https://fbrtimecrud.firebaseio.com",
+    "project_id": "fbrtimecrud",
+    "storage_bucket": "fbrtimecrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256082231393:android:3b37d7bc929ca5f722ea20",
+        "android_client_info": {
+          "package_name": "com.example.fbrtimecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256082231393-22dc2q9s00l2chkhq6lesqacg54dhpkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Uan0HCt3hMmLEeUAo85w_kJ6n0Na0ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256082231393-22dc2q9s00l2chkhq6lesqacg54dhpkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
